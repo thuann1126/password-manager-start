@@ -1,5 +1,10 @@
 {
-    "website": "Amazon",
-    "email": "thuan@gmail.com",
-    "password": "1234"
+    "Amazon": {
+        "email": "nhovo123@gmail.com",
+        "password": "LX*dJK%8Iucr5m!$38"
+    },
+    "Facebook": {
+        "email": "anhnhovo@gmail.com",
+        "password": "BeHkXHt$4r4%Ix"
+    }
 }
